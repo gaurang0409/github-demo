@@ -5,3 +5,6 @@ Adding change
 Making changes
 
 Making some changes
+
+
+Make stash example
