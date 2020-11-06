@@ -1,8 +1,12 @@
 Simple work done
 Main work done 
 
+Adding change
+
+
 <<<<<<< HEAD
-Done some conflicting changes to main 
+Making some changes
 =======
-Adding changes to big trouble branch
->>>>>>> f8cfd4b... Adding some trouble to bigtrouble
+Making changes
+
+>>>>>>> fe20eb6... Local commit
