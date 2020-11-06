@@ -1,2 +1,4 @@
 Simple work done
 Main work done 
+
+Adding changes before rebase conflict
